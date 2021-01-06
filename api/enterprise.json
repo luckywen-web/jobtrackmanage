@@ -1,0 +1,61 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "sentername": "北京科技有限公司",
+      "city": "北京",
+      "vocation": "计算机金融",
+      "manager": "刘海桥",
+      "telephone": "15012312312",
+      "cooperation": "合作中",
+      "job": "Java开发"
+    },
+    {
+      "sentername": "北京贸易有限公司",
+      "city": "北京",
+      "vocation": "金融",
+      "manager": "王海桥",
+      "telephone": "15015431312",
+      "cooperation": "合作中",
+      "job": "会计"
+    },
+    {
+      "sentername": "北京科技有限公司",
+      "city": "北京",
+      "vocation": "计算机金融",
+      "manager": "刘海桥",
+      "telephone": "15012312312",
+      "cooperation": "合作中",
+      "job": "Java开发"
+    },
+    {
+      "sentername": "北京贸易有限公司",
+      "city": "北京",
+      "vocation": "金融",
+      "manager": "王海桥",
+      "telephone": "15015431312",
+      "cooperation": "合作中",
+      "job": "会计"
+    },
+    {
+      "sentername": "北京科技有限公司",
+      "city": "北京",
+      "vocation": "计算机金融",
+      "manager": "刘海桥",
+      "telephone": "15012312312",
+      "cooperation": "合作中",
+      "job": "Java开发"
+    },
+    {
+      "sentername": "北京贸易有限公司",
+      "city": "北京",
+      "vocation": "金融",
+      "manager": "王海桥",
+      "telephone": "15015431312",
+      "cooperation": "合作中",
+      "job": "会计"
+    }
+  ]
+}
